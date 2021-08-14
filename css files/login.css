@@ -1,0 +1,41 @@
+.header{
+    background-color:#ff0000cc; 
+    width:100%;
+    height: 11em;
+}
+.section{
+    padding-top: 5em;
+    padding-bottom: 6em;
+    background-color: rgb(242, 243, 234);
+}
+.logoimg{
+    padding: 2em;
+    height: 8em;
+    width: 20em;
+    border-radius: 3em;
+    margin-right: 23em; 
+
+}
+#form{
+    padding-top: 5em;
+}
+#footer{
+    width: 100%;
+    background-color: #ff0000cc;
+    height: 5em;
+    text-align: center;
+    color: white;
+}
+.btn{
+    background-color:#ff0000cc ;
+    color: rgb(242, 243, 234);
+    margin-top: 3em;
+}
+.submit{
+    padding: 2em;
+}
+.link{
+    padding-top: 1em;
+    text-align: center;
+    font-family: Helvetica Neue, sans-serif;
+}
